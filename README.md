@@ -1,3 +1,3 @@
 # README
 
-EINE API
+EINE API von Jakob Sitko oderso
